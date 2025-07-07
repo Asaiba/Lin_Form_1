@@ -1,0 +1,6 @@
+sensor_module.c
+setup.py
+sensor_module.egg-info/PKG-INFO
+sensor_module.egg-info/SOURCES.txt
+sensor_module.egg-info/dependency_links.txt
+sensor_module.egg-info/top_level.txt
